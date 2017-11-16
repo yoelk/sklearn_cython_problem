@@ -1,0 +1,14 @@
+.cookiecutterrc
+MANIFEST.in
+requirements.txt
+setup.cfg
+setup.py
+src/feature_union/__init__.py
+src/feature_union/__main__.py
+src/feature_union/cli.py
+src/feature_union.egg-info/PKG-INFO
+src/feature_union.egg-info/SOURCES.txt
+src/feature_union.egg-info/dependency_links.txt
+src/feature_union.egg-info/entry_points.txt
+src/feature_union.egg-info/not-zip-safe
+src/feature_union.egg-info/top_level.txt

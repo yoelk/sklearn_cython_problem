@@ -1,0 +1,3 @@
+[console_scripts]
+feature_union = feature_union.cli:main
+
