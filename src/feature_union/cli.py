@@ -115,4 +115,8 @@ def main(*argv):
     # grid_search.fit(X_main, y_main)
     # print(grid_search.best_estimator_)
 
+    print('TEST PASSED')
     return 0
+
+if __name__ == "__main__":
+    main()
